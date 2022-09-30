@@ -35,4 +35,4 @@ I made it for docking.
 # 🛠️Contact
 If you find error, **please** Contact me  
 * E-mail : pash0302@naver.com
-* E-mail : pash0302@gamil.com
+* E-mail : pash0302@gmail.com
