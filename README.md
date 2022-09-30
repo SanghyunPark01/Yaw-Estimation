@@ -29,6 +29,9 @@ I made it for docking.
 ## **2-2(Video)**
 <p align="center"><img src="img/result_2.gif" width="800px"></p>  
 
+# 🛠️License
+`Yaw-Estimation` is under the [MIT License](https://github.com/SanghyunPark01/Yaw-Estimation/blob/main/LICENSE)
+
 # 🛠️Contact
 If you find error, **please** Contact me  
 * E-mail : pash0302@naver.com
