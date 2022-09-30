@@ -35,8 +35,4 @@ I made it for docking.
 # 🛠️Contact
 If you find error, **please** Contact me  
 * E-mail : pash0302@naver.com
-<<<<<<< HEAD
 * E-mail : pash0302@gmail.com
-=======
-* E-mail : pash0302@gmail.com
->>>>>>> 9cb599804c2af018d14ff6b020dbd9f640d724fc
