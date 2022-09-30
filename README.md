@@ -17,16 +17,16 @@ I made it for docking.
 
 # 🛠️Run
 
-## **1-1**
+## **1-1(Image)**
 <p align="center"><img src="img/img1.jpg" width="800px"></p>  
 
-## **1-2**
+## **1-2(Video)**
 <p align="center"><img src="img/result_1.gif" width="800px"></p>  
 
-## **2-1**
+## **2-1(Image)**
 <p align="center"><img src="img/img2.jpg" width="800px"></p>  
 
-## **2-2**
+## **2-2(Video)**
 <p align="center"><img src="img/result_2.gif" width="800px"></p>  
 
 # 🛠️Contact
